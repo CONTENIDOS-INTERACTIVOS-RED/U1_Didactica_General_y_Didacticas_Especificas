@@ -110,7 +110,7 @@
 
       h2 Didáctica general y específicas
 
-      .row.bg-fondo-1.bg-full-width.py-4.mb-4
+      .row.bg-fondo-1.bg-full-width.py-4.mb-5
         div.px-5.pb-md-3
       
           .row.mb-4
@@ -123,7 +123,7 @@
 
           .row.mb-0
             .col-12.col-xl-8.mx-auto
-              .tarjeta.shadow.p-3.mb-0.bg-white
+              .shadow.p-3.mb-0.bg-white
                 .row.justify-content-around.align-items-center
                   .col-3.col-sm-2.px-4
                     img(src='@/assets/componentes/youtube-icon-circle.svg')
@@ -195,7 +195,7 @@
                 p.text-bold Contextos no formales e informales
                 p Más allá de la educación formal, la didáctica también interviene en escenarios educativos alternativos, tales como talleres comunitarios, capacitaciones laborales, museos y proyectos sociales, adaptando sus estrategias para audiencias diversas con objetivos específicos. <br><b>Ejemplo práctico.</b> Actividades interactivas en museos, dirigidas a públicos de diferentes edades.
 
-      .row.bg-morado.border-top-morado-6.bg-full-width.py-4.mb-5
+      .row.bg-morado.border-top-morado-6.bg-full-width.py-4
         div.px-5.pb-md-3.py-4.d-flex
           .col-12.col-xl-7.d-flex.pe-4.pe-xl-5.align-items-center.flex-column
             h2.mb-4.pb-2.me-auto Concepto de aprendizaje: diversos enfoques

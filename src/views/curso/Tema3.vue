@@ -218,7 +218,7 @@
           .row.mb-4
             .col-12.col-xl-8.mx-auto
 
-              .tarjeta.shadow.p-3.mb-0.bg-white
+              .shadow.p-3.mb-0.bg-white
                 .row.justify-content-around.align-items-center
                   .col-3.col-sm-2.px-4
                     img(src='@/assets/componentes/youtube-icon-circle.svg')
@@ -232,7 +232,7 @@
                           span.text-small Ver video
                           i.fas.fa-arrow-right
       
-      .row.bg-morado.bg-full-width.py-4.mb-4
+      .row.bg-morado.bg-full-width.py-4
         div.px-5.pb-md-3.py-4.d-flex
           .d-none.d-xl-block.col-xl-5.mx-auto.mt-4.mt-xl-0(data-aos="zoom-in")
             img.h-100(src='@/assets/curso/unidad/img-60.png', alt='Texto que describa la imagen')

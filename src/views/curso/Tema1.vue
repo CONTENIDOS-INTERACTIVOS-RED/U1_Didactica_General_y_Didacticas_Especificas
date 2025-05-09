@@ -15,7 +15,7 @@
           .my-auto
             p.pe-xl-3.mb-0 Por ejemplo, en China se implementaron sistemas de evaluación; en la India, la enseñanza se integraba con rituales religiosos; en Grecia se impulsó el humanismo; Roma estableció una educación bilingüe, y el pueblo judío centró su instrucción en el Talmud. Más adelante, en la Edad Media, el <i>trivium</i> (gramática, lógica y retórica) y el quadrivium (aritmética, geometría, música y astronomía), estructuraron el conocimiento. Estas prácticas tempranas sentaron las <b>bases de la didáctica</b>, al experimentar y consolidar diversas estrategias para <b>transmitir saberes y habilidades</b>.
 
-    .row.bg-morado.bg-full-width.py-4.mb-4
+    .row.bg-morado.bg-full-width.py-4.mb-5
       div.px-5.pb-md-3.py-4.d-flex
         .col-12.col-xl-7.d-flex.pe-4.pe-xl-5.align-items-center.flex-column
           h2.mb-4.pb-2.me-auto Origen y evolución del concepto de didáctica: campo conceptual y terminológico
@@ -48,7 +48,7 @@
 
     h2 Didáctica como disciplina
     p.mb-4 Por otro lado, autores como Anabella Cadile citada por Peñafort y Bastiani, (2022) argumentan que la didáctica es, ante todo, una disciplina práctica, centrada en aplicar conocimientos en contextos específicos, más que en establecer leyes universales. Desde esta visión, se valoran las estrategias didácticas adaptadas a las necesidades reales del aula.
-    .row.mb-4
+    .row.mb-5
       .col-4.d-none.d-xl-block
         img(src='@/assets/curso/unidad/img-8.png', alt='Texto que describa la imagen')
       .col-12.col-xl-8
@@ -58,7 +58,9 @@
             p.pe-xl-3.mb-0 Ferrández y Sarramona (1984), citados por Peñafort y Bastiani, (2022)  la consideran teórico-normativa, orientada a formar hábitos intelectuales; Benedito (1987), también citado por Peñafort y Bastiani, (2022) resalta su dimensión comunicativa y relacional; y Gimeno Sacristán (2010), citados por Peñafort y Bastiani, (2022)  la concibe como ciencia, arte y praxis. Sevillano (2004), también citado por citado por Peñafort y Bastiani, (2022) refuerza su papel como guía teórico-práctica en contextos interactivos.
         span Otros autores, todos citados por citado por Peñafort y Bastiani, (2022), destacan su aplicabilidad contextual: Contreras (1990), la entiende como herramienta para guiar procesos, según objetivos educativos; Carvajal (2009), la vincula con la pedagogía y la formación docente; Zabalza (1990), subraya su función en la planificación e innovación, y Saturnino de la Torre (1993), resalta su evolución desde lo artesanal hasta lo epistémico. También se le reconoce un rol práctico en la pedagogía (Cervantes, 1996), en la acción social (De Camilloni, 1994), en la formación profesional (Fuentes, 2000) y en los desafíos educativos de la era digital (Moreno, 2011). La didáctica dialógica, por su parte, pone en primer plano el diálogo, como recurso pedagógico.
     
-    p.mb-4 <b>Tabla 1.</b> Didáctica como ciencia vs. didáctica como disciplina
+    .titulo-figura.mb-0
+      h5 Tabla 1. 
+      span Didáctica como ciencia vs. didáctica como disciplina
 
     .row.bg-fondo-1.bg-full-width.py-4.mb-4
       div.px-5.pb-md-3
@@ -82,7 +84,7 @@
 
         .row.mb-0
           .col-12.col-xl-7.mx-auto
-            .tarjeta.shadow.p-3.mb-0.bg-white
+            .shadow.p-3.mb-0.bg-white
               .row.justify-content-around.align-items-center
                 .col-3.col-sm-2
                   img.p-2(src='@/assets/componentes/link-icon-circle.svg')
@@ -129,17 +131,17 @@
         span La didáctica se presenta hoy como un campo de estudio <b>dinámico y multifacético</b>. Mientras algunos autores la conciben como una ciencia, otros resaltan su carácter práctico, acercándola más a una disciplina o incluso a una combinación de ciencia y arte. Su evolución constante, incluyendo nuevas disciplinas como la <b>Neurodidáctica</b> y enfoques como la <b>Didáctica Dialógica</b>, refleja su capacidad de adaptación frente a los desafíos de la educación contemporánea (Peñafort y Bastiani, 2022).
 
     
-    .row.bg-fondo-1.bg-full-width.py-4.mb-5
+    .row.bg-fondo-1.bg-full-width.py-4
       div.px-5.pb-md-3
-        .row.mb-4
+        .row
           .col-12.col-xl-8.mx-auto
-            .tarjeta.shadow.p-3.mb-5.bg-white
+            .shadow.p-3.bg-white
               .row.justify-content-around.align-items-center
                 .col-3.col-sm-2.px-4
                   img(src='@/assets/componentes/youtube-icon-circle.svg')
                 .col
                   .row.justify-content-between.align-items-center
-                    .col.mb-3.mb-sm-0
+                    .col.mb-sm-0
                       p.text-bold.mb-3 Lo que es la didáctica
                       p.text-small Para conocer más sobre la didáctica, recomendamos ver el siguiente video:
                     .col-sm-auto
